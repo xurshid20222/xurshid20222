@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://github.com/xurshid20222/my_pinterest_app](https://github.com/xurshid20222/my_pinterest_app)
 
-- ⚡ Fun fact **I play Counter**
+- ⚡ Fun fact **I play Counter😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
