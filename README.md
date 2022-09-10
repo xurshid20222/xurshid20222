@@ -22,11 +22,11 @@
 
 - 📫 How to reach me **yusuvaliyevx@gmail.com**
 
-- 📲 Know about my experiences [https://github.com/xurshid20222/my_pinterest_app](https://github.com/xurshid20222/my_pinterest_app)
+- 🤕 Know about my experiences [https://github.com/xurshid20222/my_pinterest_app](https://github.com/xurshid20222/my_pinterest_app)
 
 - ⚡ Fun fact **I play Counter😉**
 
-- 📝 My Telegram Profile [https://t.me/Xurshid_Ali](https://t.me/Xurshid_Ali)
+- 📲 My Telegram Profile [https://t.me/Xurshid_Ali](https://t.me/Xurshid_Ali)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
