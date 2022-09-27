@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![fl](https://user-images.githubusercontent.com/97846891/192476135-85e67ac9-3a64-45eb-805a-e4a56302ba9a.jpeg)
+![f](https://user-images.githubusercontent.com/97846891/192494698-7f2c0094-ce7e-4e3e-acc6-8c42ba71d1da.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Khurshid</h1>
