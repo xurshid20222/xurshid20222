@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![f](https://yandex.uz/images/search?from=tabbar&img_url=https%3A%2F%2Fsun9-77.userapi.com%2Fimpf%2Fc630417%2Fv630417445%2F314ce%2FK7rHTF9XgBc.jpg%3Fsize%3D1024x600%26quality%3D96%26sign%3Dd10ea7ee1ed40dc36d2f38f42782ae06%26c_uniq_tag%3DoC8JXBd_R9sdkeuv4qtemaD8tE7P14Fbd_6kEQW1URY%26type%3Dalbum&lr=10335&ogl_url=https%3A%2F%2Fsun9-77.userapi.com%2Fimpf%2Fc630417%2Fv630417445%2F314ce%2FK7rHTF9XgBc.jpg%3Fsize%3D1024x600%26quality%3D96%26sign%3Dd10ea7ee1ed40dc36d2f38f42782ae06%26c_uniq_tag%3DoC8JXBd_R9sdkeuv4qtemaD8tE7P14Fbd_6kEQW1URY%26type%3Dalbum&pos=6&rlt_url=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fprogramming-typography-2560x1080.jpg&rpt=simage&text=write%20code%20image)
+![f](https://images.hdqwalls.com/download/programming-typography-2560x1080.jpg)
 
 
 
