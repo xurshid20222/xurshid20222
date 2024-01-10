@@ -11,21 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xurshid20222" alt="xurshid20222" /></a> </p>
 
-- 🔭 I’m currently working on [PDPBazar](https://github.com/xurshid20222/PDP-Bazar)
-
-- 🌱 I’m currently learning **Flutter framework**
-
-- 👨‍💻 All of my projects are available at [https://github.com/xurshid20222](https://github.com/xurshid20222)
-
-
-
-- 💬 Ask me about **about dart, flutter framework**
-
 - 📫 How to reach me **yusuvaliyevx@gmail.com**
-
-- 🤕 Know about my experiences [https://github.com/xurshid20222/my_pinterest_app](https://github.com/xurshid20222/my_pinterest_app)
-
-- ⚡ Fun fact **I play Counter😉**
 
 - 📲 My Telegram Profile [https://t.me/Xurshid_Ali](https://t.me/Xurshid_Ali)
 
